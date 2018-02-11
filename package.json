@@ -1,0 +1,24 @@
+{
+  "name": "tempapp",
+  "version": "1.0.0",
+  "description": "MV* practice work example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack --watch"
+  },
+  "keywords": [
+    "mvc",
+    "mvp",
+    "mvvm",
+    "design",
+    "patterns",
+    "practice"
+  ],
+  "author": "belodpav",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-plugin": "^2.30.1",
+    "webpack": "^3.11.0"
+  }
+}
